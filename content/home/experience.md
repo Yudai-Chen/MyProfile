@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "Office of Information Technology of Rice University"
   company_url = "https://oit.rice.edu/"
   location = "Houston, TX"
-  date_start = "May 2020"
-  date_end = "Aug 2020"
+  date_start = "2020-05-26"
+  date_end = "2020-08-07"
   description = "Individually developed and deployed a research data presentation website for School of Humanities of Rice University"
   
 [[experience]]
@@ -31,8 +31,8 @@ date_format = "Jan 2006"
   company = "Beth Israel Deaconess Medical Center"
   company_url = "https://www.bidmc.org/"
   location = "Boston, MA"
-  date_start = "Jul 2018"
-  date_end = "Sep 2018"
+  date_start = "2018-07-15"
+  date_end = "2018-09-01"
   description = "Developed a web application for pancreatic cancer data management, providing concurrent data analysis features"
   
 [[experience]]
@@ -40,8 +40,8 @@ date_format = "Jan 2006"
   company = "Baidu"
   company_url = "http://ir.baidu.com/"
   location = "Beijing, China"
-  date_start = "Sep 2017"
-  date_end = "Dec 2017"
+  date_start = "2017-09-01"
+  date_end = "2017-12-01"
   description = "Developed an Android application for speech recognition, based on BaiduAI service"
 
 +++
