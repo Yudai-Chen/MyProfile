@@ -25,12 +25,12 @@ date_format = "Jan 2006"
   date_start = "2020-05-26"
   date_end = "2020-08-07"
   description = """
-  *Independently designed and built a data presentation website for Rice University Humanities School lectures, allowing more than 300 staff and students to manage research data. Each user can maintain more than 10,000 resources with different types
-  *Functionalized 12 web pages and 34 features and made users be able to search for resources within 2 seconds
-  *Developed frontend with Node.js, Webpack, ReactJS, and Redux, using Axios to send concurrent HTTP requests efficiently
-  *Adopted asynchronized job queue with Redis as L2 cache to deal with high concurrency issues and reduce response time
-  *Developed backend with Spring Boot and used MyBatis 3 to run dynamical SQL queries in MySQL with higher efficiency 
-  *Deployed the system with Docker and Nginx as load balancer on Apache HTTP Server, providing high scalability
+  * Independently designed and built a data presentation website for Rice University Humanities School lectures, allowing more than 300 staff and students to manage research data. Each user can maintain more than 10,000 resources with different types
+  * Functionalized 12 web pages and 34 features and made users be able to search for resources within 2 seconds
+  * Developed frontend with Node.js, Webpack, ReactJS, and Redux, using Axios to send concurrent HTTP requests efficiently
+  * Adopted asynchronized job queue with Redis as L2 cache to deal with high concurrency issues and reduce response time
+  * Developed backend with Spring Boot and used MyBatis 3 to run dynamical SQL queries in MySQL with higher efficiency 
+  * Deployed the system with Docker and Nginx as load balancer on Apache HTTP Server, providing high scalability
 
   """
   
