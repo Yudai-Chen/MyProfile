@@ -2,7 +2,7 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
@@ -25,6 +25,7 @@ date_format = "Jan 2006"
   date_start = "May 2020"
   date_end = "Aug 2020"
   description = """Individually developed and deployed a research data presentation website for School of Humanities of Rice University"""
+  
 [[experience]]
   title = "Software Development Intern"
   company = "Beth Israel Deaconess Medical Center"
@@ -33,6 +34,7 @@ date_format = "Jan 2006"
   date_start = "Jul 2018"
   date_end = "Sep 2018"
   description = """Developed a web application for pancreatic cancer data management, providing concurrent data analysis features"""
+  
 [[experience]]
   title = "Software Development Intern"
   company = "Baidu"
