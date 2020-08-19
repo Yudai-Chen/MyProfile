@@ -25,12 +25,12 @@ date_format = "Jan 2006"
   date_start = "2020-05-26"
   date_end = "2020-08-07"
   description = """
-  * Independently designed and built a data presentation website for Rice University Humanities School lectures, allowing more than 300 staff and students to manage research data. Each user can maintain more than 10,000 resources with different types
-  * Functionalized 12 web pages and 34 features and made users be able to search for resources within 2 seconds
-  * Developed frontend with Node.js, Webpack, ReactJS, and Redux, using Axios to send concurrent HTTP requests efficiently
-  * Adopted asynchronized job queue with Redis as L2 cache to deal with high concurrency issues and reduce response time
-  * Developed backend with Spring Boot and used MyBatis 3 to run dynamical SQL queries in MySQL with higher efficiency 
-  * Deployed the system with Docker and Nginx as load balancer on Apache HTTP Server, providing high scalability
+  + Independently designed and built a data presentation website for Rice University Humanities School lectures, allowing more than 300 staff and students to manage research data. Each user can maintain more than 10,000 resources with different types
+  + Functionalized 12 web pages and 34 features and made users be able to search for resources within 2 seconds
+  + Developed frontend with Node.js, Webpack, ReactJS, and Redux, using Axios to send concurrent HTTP requests efficiently
+  + Adopted asynchronized job queue with Redis as L2 cache to deal with high concurrency issues and reduce response time
+  + Developed backend with Spring Boot and used MyBatis 3 to run dynamical SQL queries in MySQL with higher efficiency 
+  + Deployed the system with Docker and Nginx as load balancer on Apache HTTP Server, providing high scalability
 
   """
   
@@ -41,7 +41,14 @@ date_format = "Jan 2006"
   location = "Boston, MA"
   date_start = "2018-07-15"
   date_end = "2018-09-01"
-  description = "Developed a web application for pancreatic cancer data management, providing concurrent data analysis features"
+  description = """
+  + Implemented a web application for the pancreatic cancer data management, providing concurrent data analysis features
+  + Developed frontend using Angular, styled it by Material-UI and visualized complicated data with three.js 
+  + Developed MVC based backend using Maven and SparkJava and deployed it with Apache Tomcat server
+  + Adopted MongoDB for database to fully realize the CRUD functionality of the website and WebSocket to provide real-time event notifications as some user operations may take a long time processing data in the backend 
+  + Created automatic test scripts using JUnit, making the code coverage more than 91%
+
+  """
   
 [[experience]]
   title = "Software Development Intern"
@@ -50,6 +57,11 @@ date_format = "Jan 2006"
   location = "Beijing, China"
   date_start = "2017-09-01"
   date_end = "2017-12-01"
-  description = "Developed an Android application for speech recognition, based on BaiduAI service"
+  description = """
+  + Implemented an Android speech recognition application based on BaiduAI service, covering 12 different use cases
+  + Developed the application using React-native with Android Studio and Gradle, using SQLite 3 to store voice data
+  + Implemented backend using Express.js and designed RESTful data API endpoints
+
+  """
 
 +++
