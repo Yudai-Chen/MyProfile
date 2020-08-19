@@ -47,17 +47,17 @@ date_format = "Jan 2006"
   date_end = "2018-09-01"
   description = """  
   
-  + Implemented a web application for pancreatic cancer data management.  
+Implemented a web application for pancreatic cancer data management.  
   
-  + Developed frontend using AngularJS, styled it by Material-UI and visualized complicated data with three.js.  
+Developed frontend using AngularJS, styled it by Material-UI and visualized complicated data with three.js.  
   
-  + Developed MVC based backend using Maven and SparkJava and deployed it with Apache Tomcat server.  
+Developed MVC based backend using Maven and SparkJava and deployed it with Apache Tomcat server.  
   
-  + Adopted MongoDB for the database to fully realize the CRUD functionality of the website.  
+Adopted MongoDB for the database to fully realize the CRUD functionality of the website.  
   
-  + Adopted WebSocket to provide real-time event notifications as some user operations may take a long time processing data in the backend.  
+Adopted WebSocket to provide real-time event notifications as some user operations may take a long time processing data in the backend.  
   
-  + Created automatic test scripts using JUnit, making the code coverage more than 91%.  
+Created automatic test scripts using JUnit, making the code coverage more than 91%.  
 
   """
   
