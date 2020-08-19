@@ -26,15 +26,15 @@ date_format = "Jan 2006"
   date_end = "2020-08-07"
   description = """  
   
-  + Independently designed and built a data presentation website for School of Humanities of Rice University.  
+Independently designed and built a data presentation website for School of Humanities of Rice University.  
   
-  + Developed frontend with Node.js, Webpack, ReactJS, and Redux, using Axios to send concurrent HTTP requests efficiently.  
+Developed frontend with Node.js, Webpack, ReactJS, and Redux, using Axios to send concurrent HTTP requests efficiently.  
   
-  + Adopted Redis as L2 cache to deal with high concurrency issues and reduce response time.  
+Adopted Redis as L2 cache to deal with high concurrency issues and reduce response time.  
   
-  + Developed backend with Spring Boot and used MyBatis 3 to run dynamical SQL queries in MySQL with higher efficiency.   
+Developed backend with Spring Boot and used MyBatis 3 to run dynamical SQL queries in MySQL with higher efficiency.   
   
-  + Deployed the system with Docker and Nginx as load balancer on Apache HTTP Server, providing high scalability.  
+Deployed the system with Docker and Nginx as load balancer on Apache HTTP Server, providing high scalability.  
 
   """
   
@@ -70,11 +70,11 @@ Created automatic test scripts using JUnit, making the code coverage more than 9
   date_end = "2017-12-01"
   description = """  
   
-  + Implemented an Android application for speech recognition based on BaiduAI service.  
+Implemented an Android application for speech recognition based on BaiduAI service.  
   
-  + Developed the application using React-native with Android Studio and Gradle, using SQLite 3 to store voice data.  
+Developed the application using React-native with Android Studio and Gradle, using SQLite 3 to store voice data.  
   
-  + Implemented backend using Express.js and designed RESTful data API endpoints.  
+Implemented backend using Express.js and designed RESTful data API endpoints.  
 
   """
 
