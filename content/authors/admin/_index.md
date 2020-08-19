@@ -24,7 +24,7 @@ interests:
 - Web Development
 - Distributed System
 - Operating Systems and Kernels
-- Database System
+- Data Management
 - Data Visualization
 - Infrastructure
 
