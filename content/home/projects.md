@@ -22,16 +22,16 @@ subtitle = ""
   filter_default = 0
   
   # [[content.filter_button]]
-    name = "All"
-    tag = "*"
+  #   name = "All"
+  #   tag = "*"
   
   # [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
+  #   name = "Deep Learning"
+  #   tag = "Deep Learning"
   
   # [[content.filter_button]]
-    name = "Other"
-    tag = "Demo"
+  #   name = "Other"
+  #   tag = "Demo"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
