@@ -66,4 +66,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I obtained my Bachelor of Engineering degree in Computer Science from Chu Kochen Honors College of Zhejiang University in July 2019. Currently I'm a master student majoring in Computer Science at Rice University. My interests include web development(mainly backend), distributed system, high performance computing and infrastructure.
+I obtained my Bachelor of Engineering degree in Computer Science from [Chu Kochen Honors College of Zhejiang University](http://ckc.zju.edu.cn/ckcen/) in July 2019. Currently I'm a master student majoring in Computer Science at Rice University. My interests include web development(mainly backend), distributed system, high performance computing and infrastructure.
