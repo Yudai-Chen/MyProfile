@@ -18,12 +18,13 @@ organizations:
   url: "https://www.rice.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I obtained my Bachelor of Engineering degree in Computer Science from [Chu Kochen Honors College of Zhejiang University](http://ckc.zju.edu.cn/ckcen/) in July 2019. Currently I'm a master's student majoring in Computer Science at Rice University. My interests include web development(mainly backend), distributed system, high performance computing, and infrastructure.
+bio: I obtained my Bachelor of Engineering degree in Computer Science from [Chu Kochen Honors College of Zhejiang University](http://ckc.zju.edu.cn/ckcen/) in July 2019. Currently I'm a master's student majoring in Computer Science at Rice University. My interests include web development(mainly backend), distributed system, cloud computing, high performance computing, and infrastructure.
 
 interests:
 - Web Development
 - Distributed System
-- Operating Systems and Kernels
+- Cloud Computing
+- Operating System and Kernel
 - Data Management
 - Data Visualization
 - Infrastructure
@@ -66,4 +67,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I obtained my Bachelor of Engineering degree in Computer Science from [Chu Kochen Honors College of Zhejiang University](http://ckc.zju.edu.cn/ckcen/) in July 2019. Currently I'm a master's student majoring in Computer Science at Rice University. My interests include web development(mainly backend), distributed system, high performance computing and infrastructure.
+I obtained my Bachelor of Engineering degree in Computer Science from [Chu Kochen Honors College of Zhejiang University](http://ckc.zju.edu.cn/ckcen/) in July 2019. Currently I'm a master's student majoring in Computer Science at Rice University. My interests include web development(mainly backend), distributed system, cloud computing, high performance computing and infrastructure.
