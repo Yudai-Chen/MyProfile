@@ -1,17 +1,15 @@
 ```
 ---
-title: miniSQL
-summary: A simple-but-no-simpler relational database.
-#ags:
-#- Database
-date: "2016-04-27T00:00:00Z"
+title: Special Collections
+summary: A data display web application.
+date: "2016-08-07T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-image:
-  caption: Yusong Wu
-  focal_point: Smart
+# image:
+#  caption: Yusong Wu
+#  focal_point: Smart
 
 #links:
 #- icon: github
@@ -28,8 +26,8 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
-A simple-but-no-simpler relational database that supports INSERT, SELECT, DELETE, CREATE TABLE, CREATE INDEX, and DROP operations.
+A data display web application.
 ```
