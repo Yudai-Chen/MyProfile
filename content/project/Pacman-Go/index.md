@@ -1,7 +1,7 @@
 ---
-title: Special Collections
-summary: A data display web application.
-date: "2020-08-07T00:00:00Z"
+title: Pac-Man Go
+summary: A remake of Pac-Man Game, more fun.
+date: "2019-11-01T00:00:00Z"
 external_link: ""
 
 image:
@@ -10,4 +10,12 @@ image:
   
 slides: example
 ---
-A data display web application.
+Pac-Man Go is a remake of the classic Pac-Man Game.
+
+Based on the original one, I added  AI opponents, multi-player mode, map editor, debug mode, and bonus/difficulty design, which produce a lot more fun.
+
+Here is a demo.
+
+{{< video src="pacman.mp4" controls="yes" >}} 
+
+Also, you can play a live version here: https://pacman-team-chaos.herokuapp.com/ 
