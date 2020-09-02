@@ -1,7 +1,7 @@
 ---
-title: Special Collections
-summary: A data display web application.
-date: "2020-08-07T00:00:00Z"
+title: Demeter Database
+summary: A tiny relational database similar to MySQL.
+date: "2020-05-01T00:00:00Z"
 external_link: ""
 
 image:
@@ -10,4 +10,4 @@ image:
   
 slides: example
 ---
-A data display web application.
+A tiny relational database similar to MySQL.

@@ -1,7 +1,7 @@
 ---
-title: Special Collections
-summary: A data display web application.
-date: "2020-08-07T00:00:00Z"
+title: Yalnix Operating System
+summary: A Unix-like Operating System for RCS421 simulated hardware and X11 Windows System, including both kernel and file system with all basic functionalities such as memory management, interrupt handling, context switching and I/O handling.
+date: "2020-05-20T00:00:00Z"
 external_link: ""
 
 image:
@@ -10,4 +10,4 @@ image:
   
 slides: example
 ---
-A data display web application.
+Yalnix OS is a Unix-like Operating System for RCS421 simulated hardware and X11 Windows System, including both kernel and file system with all basic functionalities such as memory management, interrupt handling, context switching and I/O handling.
