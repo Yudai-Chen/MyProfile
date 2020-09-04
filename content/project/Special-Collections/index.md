@@ -24,3 +24,5 @@ Here is a video about how a researcher's work flow can be improved by using Spec
 
 {{< video src="Wright.mp4" controls="yes" >}} 
 
+For more information, please check [my github repo page]( https://github.com/Yudai-Chen/Special-Collections ).
+
