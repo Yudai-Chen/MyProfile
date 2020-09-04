@@ -14,7 +14,7 @@ slides: example
 
 Tiger language:
 
-Please check the `{{% staticref "files/tiger.pdf" %}}Tiger Language Manual{{% /staticref %}}`.
+Please check the [Tiger Language Manual](tiger.pdf).
 
 ## 1. Lexical Analysis
 
@@ -24,5 +24,22 @@ There are two kinds of input words to deal with: one is the lexical tokens, incl
 
 ## 2. Syntax Analysis
 
+The main task for syntax analysis is to parse the phrase structure of the program. To achieve a syntax parser, I use Yacc, a classic and widely used parser generator, to complete LR parsing for me.
 
+## 3. Semantic Analysis
 
+After the syntax analysis, we get an abstract tree. This tree will be transmitted to "Semant" module to do the semantic analysis whose main tasks are to construct environment tables and type check. In Semant module, we will call the Translate module to generate the intermediate code.
+
+## 4. Trace Produce
+
+After a few previous steps, we finally got a Intermediate Representation Tree. What’s more has to be done is to convert the Intermediate Representation Tree to assembly language or machine language. However, there are certain aspects of the Tree language that do not correspond exactly with machine languages, and some aspects of the Tree language interfere with compile-time optimization analyses. 
+
+To deal with this problem, we should perform an extra step, to translate the original Tree to another form, which is easy to translate to machine language. 
+
+## 5. Target Code Generation
+
+I implemented the Maximal Munch algorithm to generate x86 instructions. For each of the abstract assembly-language types, I attached it with an instruction. 
+
+## 6. Performance Tests
+
+For more information, please refer to the PDF attached to this page.
