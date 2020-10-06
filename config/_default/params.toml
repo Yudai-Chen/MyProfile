@@ -124,7 +124,7 @@ contact_links = [
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/media/` folder and specify image name here.
-sharing_image = "../../assets/images/icon.png"
+sharing_image = "https://raw.githubusercontent.com/Yudai-Chen/MyProfile/master/assets/images/icon.png"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = ""
