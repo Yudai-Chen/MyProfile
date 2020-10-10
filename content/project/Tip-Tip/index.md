@@ -32,4 +32,4 @@ A Tip Calculator application for iOS, developed with Xcode and Swift (and an old
 
    ![User Story](./walkthrough.gif) 
 
-   {{< figure src="walkthrough.gif" title="User Story" >}} 
+  
